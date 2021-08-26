@@ -2,7 +2,7 @@
 
 
 Link para la pagina
-http://jeisonimbana.com/maquetacion-responsive2/
+https://imbana.github.io/maquetacion-responsive2/
 
 
 
